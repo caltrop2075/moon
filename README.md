@@ -1,15 +1,26 @@
 # moon
 moon phase emoji
 
-file.sh
---------------------------------------------------------------------------------
-file info
 
-icons.sh
+df.awk
 --------------------------------------------------------------------------------
-copy matched icons to ~/temp/icons
-clears directory first
 
-lnk-chk.sh
+df.sh
 --------------------------------------------------------------------------------
-check links
+disk avail
+
+free.awk
+--------------------------------------------------------------------------------
+
+free.sh
+--------------------------------------------------------------------------------
+memory free
+default KB
+
+moon.sh
+--------------------------------------------------------------------------------
+moon phase
+DST has caused issues with other time calcs but 1hr shouldn't matter here
+see: phone.sh
+
+full moon base
