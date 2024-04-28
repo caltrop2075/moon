@@ -1,6 +1,8 @@
 # moon
-moon phase emoji
 
+phases of the moon & prompt
+
+can be used in command line prompt
 
 df.awk
 --------------------------------------------------------------------------------
